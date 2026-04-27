@@ -28,7 +28,7 @@ fairlearn>=0.8.0
 # shap>=0.42.0
 
 # Optional: statistical tests
-scipy>=1.10.0
+scipy==1.11.4
 
 # Optional: SMOTE oversampling
 # imbalanced-learn>=0.10.0
